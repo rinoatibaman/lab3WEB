@@ -2,6 +2,8 @@
 - RINO ELJON ATIBAMAN
 - 312010006
 - TI.20.D.1
+![WhatsApp Image 2022-03-24 at 00 53 24](https://user-images.githubusercontent.com/101688124/160744312-43a9db3e-d6f1-4361-9a25-33c051e14d42.jpeg)
+
 
 # Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 ![2022-03-30](https://user-images.githubusercontent.com/101688124/160743408-8342009f-d887-4a37-b303-76530adde983.png)
